@@ -1,0 +1,5 @@
+See this blog post for a description of this plugin:
+
+http://blog.grayproductions.net/articles/browser_captcha
+
+Be sure to replace SECRET in lib/browser_captcha/use_browser_captcha.rb before using this code in production.
